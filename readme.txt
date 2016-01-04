@@ -48,3 +48,5 @@ Note: Commands must be executed from the project directory that is also containi
 target/jbehave/view/com.imdb.jbehave.i_m_d_b_scenarios.html
 
 10. Attached the output.html is the report generated after the execution.
+
+11. The story file contains two scenarios one is the positive scenario and other one is negative scenario which will make assertion failure.
