@@ -25,8 +25,7 @@ To execute the test case standalone using maven please follow the below steps.
 2. Set environment variable JAVA_HOME
 3. Download and install apache maven
 4. Set MAVEN_HOME , add MAVEN_HOME/bin to the PATH environment variable
-5. Unzip the DomainTest.zip (Please rename it to .zip . It might have .txt extension due to the security reasons over email transfer)
-6. Open command prompt, Go to unzip location -> then DomainTest folder (where pom.xml exists)
+5. Download the JBehaveTest project, Open command prompt -> go to project folder (where pom.xml exists)
 
 7. The project can then be build issuing the following command:
 
